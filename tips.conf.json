@@ -1,0 +1,152 @@
+{
+  "Essentials": {
+    "Rent / Mortgage": [
+      "Great job maintaining your housing stability!",
+      "Consistently paying rent builds financial reliability.",
+      "Consider negotiating lease terms or exploring refinancing if possible."
+    ],
+    "Utils - Electricity": [
+      "Energy-efficient appliances can reduce your electricity bill.",
+      "Unplugging devices when not in use helps conserve energy."
+      "Opening up window could possibily bring in fresh air reducing usage of AC and electricity"
+    ],
+    "Utils - Water": [
+      "Fixing leaks and using low-flow fixtures can reduce water waste.",
+      "Running full loads in washers and dishwashers helps save water."
+    ],
+    "Utils - Gas": [
+      "Regular maintenance of heating systems can improve gas efficiency.",
+      "Lowering the thermostat slightly can reduce gas consumption."
+    ],
+    "Utils - Misc.": [
+      "Review miscellaneous utility charges for opportunities to bundle or reduce.",
+      "Monitoring bills regularly helps avoid unnecessary fees."
+    ],
+    "Groceries": [
+      "Meal planning helps reduce waste and save money.",
+      "Throwing leftover food adds to food wastage plus expense. Eat whatever you cook",
+      "Buying seasonal and local produce can cut down grocery costs."
+    ],
+    "Vehicle Fuel": [
+      "Maintaining proper tire pressure improves fuel efficiency.",
+      "Ride Sharing with a friend will not only save your and them fuel cost but also build strong friendship",
+      "Combining errands in one trip reduces overall fuel usage."
+    ],
+    "Public Transit": [
+      "Public transit is a budget-friendly and eco-conscious choice!",
+      "Monthly passes often offer savings compared to daily tickets."
+    ],
+    "Ride-share": [
+      "Generally Ride share reduces teh fuel expense, what are we doing different here?",
+      "(if possible) Look out for promo codes to reduce expenses."
+    ],
+    "Mobile Bills": [
+      "Review your data usage and choose the best-fit plan.",
+      "Bundling mobile and internet services may offer discounts."
+    ],
+    "Internet Bills": [
+      "Check if you're paying for more speed than needed.",
+      "Compare providers annually for better deals."
+    ],
+    "Insurance - Health": [
+      "Regular preventive care can reduce long-term medical costs.",
+      "Explore if you’re eligible for group or employer discounts."
+    ],
+    "Insurance - Auto": [
+      "Maintaining a clean driving record can lower premiums.",
+      "Consider bundling policies for multi-policy discounts."
+    ],
+    "Insurance - Home": [
+      "Review coverage annually to ensure it meets your needs.",
+      "Installing security features may reduce premiums."
+    ],
+    "Home Loan EMI": [
+      "Additional Savings will Prepare you to close the Home Loan quicker.",
+      "Consider prepaying if possible to reduce interest burden."
+    ],
+    "Student Loan EMI": [
+      "A Side hustle (if you are doing) and saving from it can help you get rid of this load faster.",
+      "Look into refinancing options for lower interest rates."
+    ],
+    "Personal Loan EMI": [
+      "Try closing this as quick as possible.",
+      "Consolidating loans may simplify payments."
+    ],
+    "Vehicle Loan EMI": [
+      "Early repayment can reduce interest costs.",
+      "Stay on top of EMIs to maintain your credit health."
+    ],
+    "Child Care": [
+      "Explore employer-supported childcare benefits if available.",
+      "Balancing between daycare and family support can save costs."
+    ],
+    "School Fees": [
+      "Paying in bulk may offer discounts on tuition.",
+      "Look out for educational tax deductions."
+    ],
+    "Medical Expenses": [
+      "Health savings accounts (HSA/FSA) can help offset costs.",
+      "Preventive care helps reduce long-term medical bills."
+    ],
+    "Pet care": [
+      "Preventive vet care helps avoid large emergency bills.",
+      "Buying pet supplies in bulk saves money over time."
+    ]
+  },
+
+  "Personal & Lifestyle": {
+    "Dining": [
+      "Cooking at home is a healthy and cost-saving habit.",
+      "Plan special dine-outs to enjoy and stay on budget."
+    ],
+    "Media Subscriptions": [
+      "Review subscriptions and cancel unused ones.",
+      "Consider rotating subscriptions to save monthly."
+    ],
+    "Clothing": [
+      "Seasonal sales are great for smart clothing purchases.",
+      "Donating old clothes can make space and feel good!"
+    ],
+    "Personal Care": [
+      "Self-care is essential — budget accordingly!",
+      "DIY grooming and spa days can save money and be fun."
+    ],
+    "Gifts / Donation": [
+      "Budgeting for gifts ensures joyful giving without stress.",
+      "Giving to causes you care about brings meaning to spending."
+    ]
+  },
+
+  "Future": {
+    "Emergency Fund": [
+      "An emergency fund offers security during unexpected events.",
+      "Consistent contributions build strong safety nets over time."
+    ],
+    "Retirement Contri": [
+      "Early retirement contributions grow significantly over time.",
+      "Even small regular investments make a big difference later."
+    ],
+    "Investments": [
+      "Investing early helps build long-term wealth.",
+      "Review your portfolio periodically to align with goals."
+    ]
+  },
+}
+
+
+"Financial Trends": {
+  "stableExpense": "Your expenses are steady, showing good financial consistency.",
+  "growingExpense": "Your expenses have been growing recently — consider reviewing adjustable categories for opportunities to save.",
+  "reducingExpense": "Great job! Your expenses have been declining — keep up the mindful spending."
+}
+
+"Income Trends": {
+  "stableIncome": "Your income has been stable — a reliable foundation for planning.",
+  "increasingIncome": "Your income is growing — a great time to boost savings or investments.",
+  "decreasingIncome": "Your income has declined recently — be cautious with new expenses."
+},
+"Savings Health": {
+  "excellent": "Your savings rate is strong — you're on track for long-term goals.",
+  "moderate": "Your savings rate is steady — small improvements can go a long way.",
+  "low": "Your savings are low — aim to prioritize saving a fixed portion monthly."
+}
